@@ -25,8 +25,6 @@
 
 <h2>📫 Contact me via <a href="mailto:tahahussain53110@gmail.com">Email</a></h2>
 
-<h2>📄 Know more about my work: <a href="https://linktr.ee/Tahahussain53110">Linktree</a></h2>
-
 <h2>🔭 I’m currently working on:</h2>
 <p>Building scalable web applications using the MERN stack</p>
 
@@ -89,8 +87,5 @@
   </a>
   <a href="https://twitter.com/tahahussain53110">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://linktr.ee/Tahahussain53110">
-    <img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
   </a>
 </p>
