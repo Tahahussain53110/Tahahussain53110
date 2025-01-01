@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm <strong>Taha Hussain</strong></h1>
 
-<p align="center">A Passionate Full Stack Developer Specializing in MERN Stack</p>
+<p align="center">A Passionate Full Stack Developer Specializing in MERN Stack, React Native, AI ML, LLMs, Claude, OpenAI, VAPI.</p>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Coding">
 </p>
 
 <h2>🌐 Professional Overview:</h2>
-<p>I am a Full Stack Developer with 6+ years of experience, focusing on building scalable, high-performance web applications using the MERN stack. I enjoy tackling complex challenges and delivering innovative, robust solutions for clients across various industries.</p>
+<p>I am a Full Stack Developer with 6+ years of experience, focusing on building scalable, high-performance web applications using the MERN stack. In addition to my expertise in full-stack development, I specialize in AI/ML technologies, including working with large language models (LLMs), Claude, OpenAI, and VAPI. I enjoy tackling complex challenges and delivering innovative, robust solutions for clients across various industries, combining cutting-edge technologies to enhance both functionality and user experience.</p>
+
 
 <h2>👨‍💻 Check out my work on <a href="https://github.com/Tahahussain53110">GitHub</a></h2>
 
 <h2>💬 Ask me about:</h2>
 <ul>
-  <li>React</li>
+  <li>AI/ML</li>
+  <li>Generative AI</li>
+  <li>RAG</li>
+  <li>NLP</li>
+  <li>LLMs</li>
+  <li>Computer Visions</li>
+  <li>React Native</li>
   <li>Full Stack Development</li>
   <li>Node.js</li>
   <li>TypeScript</li>
@@ -27,6 +34,7 @@
 
 <h2>🔭 I’m currently working on:</h2>
 <p>Building scalable web applications using the MERN stack</p>
+<p>Developing AI/ML solutions, including working with LLMs, Claude, OpenAI, and VAPI.</p>
 
 <h2>🌱 Currently learning:</h2>
 <p>Cloud DevOps (AWS, Docker)</p>
